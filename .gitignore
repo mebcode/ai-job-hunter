@@ -1,0 +1,34 @@
+# Secrets and credentials
+.env
+.env.*
+*.key
+*.pem
+credentials*
+secrets*
+
+# Your personal files (keep these local; the repo ships templates only)
+profile.md
+candidate-profile.md
+my-*.md
+# filled copies: save as my-persona.md, my-routines.md (matched by my-*.md)
+company-watchlist.md
+watchlist.md
+
+# Resumes and generated documents
+*.pdf
+*.docx
+resumes/
+output/
+
+# Local data
+data/
+local/
+*.csv
+*.sqlite
+*.db
+
+# OS and editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
