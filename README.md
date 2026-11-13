@@ -2,6 +2,12 @@
 
 An AI agent that finds jobs that fit you, keeps them in a Notion tracker, and gets each application ready for you to submit.
 
+## Video walkthrough
+
+[![I Built an AI Tool That Applies to Jobs for Me](docs/images/video-thumbnail.svg)](https://www.youtube.com/watch?v=j84zmyLvTdM)
+
+Watch [I Built an AI Tool That Applies to Jobs for Me](https://www.youtube.com/watch?v=j84zmyLvTdM) on YouTube for a look at the whole pipeline in action.
+
 ## The problem
 
 Job hunting is mostly repetitive work. You check the same boards every few days, reread postings you already passed on, lose track of where you applied, forget to follow up, and rewrite your resume for every role. This package hands that work to an AI agent while you keep every decision that matters: which jobs to pursue, what your resume says, and when to press Submit.
